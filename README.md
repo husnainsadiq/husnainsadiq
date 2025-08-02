@@ -1,49 +1,29 @@
-<!-- Fake Instagram Profile UI -->
-
-<table>
-  <tr>
-    <td width="170px">
-      <img src="https://i.imgur.com/NpJ9vYp.png" width="160" style="border-radius:50%" alt="profile" />
-    </td>
-    <td>
-      <h2>@husnainsadiq</h2>
-      <p>
-        <img src="https://img.shields.io/badge/114-Posts-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/7.2k-Followers-pink?style=flat-square" />
-        <img src="https://img.shields.io/badge/983-Following-orange?style=flat-square" />
-      </p>
-      <p><strong>Husnain Sadiq</strong><br/>
-      💻 Developer | 📦 Importer | 🎯 Dream Chaser<br/>
-      🔗 <a href="https://sahaz.pk">sahaz.pk</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🖼️ Posts
-
-<table>
-  <tr>
-    <td><img src="https://source.unsplash.com/random/300x300?code" width="100%"/></td>
-    <td><img src="https://source.unsplash.com/random/300x300?startup" width="100%"/></td>
-    <td><img src="https://source.unsplash.com/random/300x300?business" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://source.unsplash.com/random/301x301?laptop" width="100%"/></td>
-    <td><img src="https://source.unsplash.com/random/302x302?tech" width="100%"/></td>
-    <td><img src="https://source.unsplash.com/random/303x303?javascript" width="100%"/></td>
-  </tr>
-</table>
-
----
-
-### 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Sahaz.pk-000?logo=google-chrome&logoColor=white)](https://sahaz.pk)
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=FF69B4&style=flat-square" />
+  <img src="https://github.com/husnainsadiq/husnainsadiq/assets/banner-image.png" alt="Banner" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Husnain Sadiq</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Student | Full Stack Developer  
+- 🧠 Currently sharpening my MERN stack & DevOps skills  
+- 🛒 Founder at [Sahaz](https://github.com/husnainsadiq) - An online jewelry brand  
+- 🌱 Always learning and building  
+- 🏆 40+ certifications (Google, IBM, LinkedIn Learning etc.)  
+- 📫 Reach me: **husnainsadiqofficial@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages:        JavaScript, TypeScript, Python, C++
+🌐 Front-End:        React.js, Next.js, HTML, CSS, Tailwind
+🖥️ Back-End:        Node.js, Express.js, MongoDB, REST APIs
+🛢️ Database:        MySQL, MongoDB, Firebase
+⚙️ Tools & DevOps:   Git, GitHub, VSCode, Postman, Vercel, Netlify
