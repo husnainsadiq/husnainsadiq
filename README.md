@@ -1,58 +1,64 @@
 <h1 align="center">Husnain Sadiq</h1>
-<p align="center"><i>Full Stack Developer | Business Development Enthusiast | Lifelong Learner</i></p>
+<p align="center"><i>Full Stack Developer | Business Strategist | Tech Explorer</i></p>
 
 ---
 
-## 🔍 About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Science graduate focused on building scalable, user-friendly web applications.  
-Currently working as a Business Development Intern at Octaloop Technologies, while sharpening my skills in Full Stack Development.
+I'm a Computer Science graduate with a passion for building modern web apps and growing digital products.  
+Currently working as a Business Development Intern at Octaloop Technologies.
 
-- 🎯 Goal: Build products that solve real-world problems  
-- 💼 Fields: Web & App Development, E-Commerce Automation, Digital Growth  
-- 📍 Based in: Lahore, Pakistan
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** JavaScript, TypeScript, HTML5, CSS3, SQL  
-**Frameworks & Libraries:** React.js, Node.js, Express, TailwindCSS  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, Figma  
-**Platforms:** Firebase, Vercel, Netlify, Heroku
+- 🔍 Exploring: Full Stack Engineering, AI Tools, and E-Commerce Automation  
+- 💬 Favorite Stack: MERN (MongoDB, Express, React, Node)  
+- 🧠 Learning Focus: System Design, Product Thinking, SEO  
+- 🌍 Location: Lahore, Pakistan  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `HTML` `CSS` `SQL`
+
+**Frameworks & Tools**  
+`React.js` `Node.js` `Express` `Tailwind CSS`  
+`MongoDB` `MySQL` `Firebase`  
+`Git` `Figma` `Postman`
+
+---
+
+## 📈 GitHub Stats (Just for fun)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husnainsadiq&show_icons=true&count_private=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" width="400"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=husnainsadiq&theme=tokyonight&hide_border=true&currStreakLabel=8A2BE2&sideLabels=8A2BE2" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=husnainsadiq&show_icons=true&count_private=true&theme=midnight-purple&title_color=9f7aea&icon_color=9f7aea&text_color=bab6d6" width="400" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=husnainsadiq&theme=midnight-purple&currStreakLabel=9f7aea&sideLabels=9f7aea" width="400" />
+</p>
+
+<!-- Just for visual enhancement -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husnainsadiq&label=Profile+Views&color=9f7aea" />
 </p>
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Pinned Projects
 
-> Note: These are open-source forks and studies.  
-> Contributions and customizations are planned.
+> Currently exploring industry-standard open source projects.
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) – Static site generator for technical documentation
-- [vercel/next.js](https://github.com/vercel/next.js) – The React framework for production
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – Utility-first CSS framework
-
----
-
-## 📬 Contact Me
-
-- **Email:** [husnainsadiq.dev@gmail.com](mailto:husnainsadiq.dev@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/husnainsadiq](https://linkedin.com/in/husnainsadiq)  
-- **GitHub:** [github.com/husnainsadiq](https://github.com/husnainsadiq)
+- 🔗 [facebook/docusaurus](https://github.com/facebook/docusaurus) – Docs site generator by Meta  
+- 🔗 [vercel/next.js](https://github.com/vercel/next.js) – React framework for production  
+- 🔗 [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – Utility-first CSS framework  
+- 🔗 [appwrite/appwrite](https://github.com/appwrite/appwrite) – Self-hosted backend server for web & mobile apps  
 
 ---
 
-<p align="center" style="color: gray;">
-  Let's build something impactful together.
-</p>
+## 📬 Contact
+
+- **📧 Email:** [husnainsadiq.dev@gmail.com](mailto:husnainsadiq.dev@gmail.com)  
+- **🔗 LinkedIn:** [linkedin.com/in/husnainsadiq](https://linkedin.com/in/husnainsadiq)  
+- **🐙 GitHub:** [github.com/husnainsadiq](https://github.com/husnainsadiq)  
+
+---
+
+<p align="center"><i>“Consistency beats talent — every time.”</i></p>
