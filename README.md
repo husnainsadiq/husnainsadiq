@@ -25,7 +25,7 @@ Learning, building, and growing every day 🚀
 
 ---
 
-### 🔥 GitHub Stats (Just for Fun!)
+### 🔥 GitHub Stats
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide=issues&count_private=true&custom_title=My%20GitHub%20Stats&line_height=26&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true) |
@@ -65,5 +65,5 @@ Learning, building, and growing every day 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6C63FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=husnainsadiq&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
