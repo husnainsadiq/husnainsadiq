@@ -1,11 +1,11 @@
 <!-- Instagram Style Header -->
 <p align="center">
-  <img src="https://imgur.com/your-fake-instagram-banner.jpg" width="100%" />
+  <img src="https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1000&q=80" width="100%" />
 </p>
 
 <!-- Profile Info (Fake Instagram Style) -->
 <p align="center">
-  <img src="https://imgur.com/your-profile-pic.jpg" width="120" style="border-radius:50%" />
+  <img src="https://i.imgur.com/0y0y0y0.jpg" width="120" style="border-radius:50%" alt="Profile Picture" />
 </p>
 
 <h2 align="center">@husnainsadiq</h2>
@@ -19,41 +19,34 @@
 
 ---
 
-<!-- Instagram Bio Style -->
-> 📍 Lahore, Pakistan  
-> 💻 Coding | 📦 Importer | 🛒 E-Commerce  
-> 🎯 Mission: Be the most successful YouTuber by 25  
-> 🔗 [sahaz.pk](https://sahaz.pk) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
+### 📍 Bio
+
+> 💻 Coding | 🛒 E-Commerce | 🚀 Big Dreams  
+> 🎯 Goal: Become a millionaire developer + YouTuber by 25  
+> 🔗 [sahaz.pk](https://sahaz.pk)
 
 ---
 
-### 🖼️ Featured Posts
+### 🖼️ “Fake” Instagram Posts Gallery
 
 <p align="center">
-  <img src="https://imgur.com/fakepost1.jpg" width="30%" />
-  <img src="https://imgur.com/fakepost2.jpg" width="30%" />
-  <img src="https://imgur.com/fakepost3.jpg" width="30%" />
+  <img src="https://source.unsplash.com/random/300x300?tech" width="30%" />
+  <img src="https://source.unsplash.com/random/301x300?code" width="30%" />
+  <img src="https://source.unsplash.com/random/302x300?startup" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://source.unsplash.com/random/303x300?developer" width="30%" />
+  <img src="https://source.unsplash.com/random/304x300?ai" width="30%" />
+  <img src="https://source.unsplash.com/random/305x300?keyboard" width="30%" />
 </p>
 
 ---
 
-### 👨‍💻 Projects (Like Reels)
+### 🔗 DM Me
 
-- 🧠 **Trend Hunter** – Product trends analytics tool  
-  `#JavaScript` `#React` `#FYP`
-
-- 🛒 **Sahaz Store** – E-commerce for jewelry and imports  
-  `#MERN` `#Business`
-
-- 🧾 **ERP Modules** – Internship-level ERP features  
-  `#Node.js` `#MongoDB`
-
----
-
-### 📫 DM Me (Links)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
