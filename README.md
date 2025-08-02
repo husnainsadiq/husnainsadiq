@@ -1,64 +1,70 @@
-<h1 align="center">Husnain Sadiq</h1>
-<p align="center"><i>Full Stack Developer | Business Strategist | Tech Explorer</i></p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a Computer Science graduate with a passion for building modern web apps and growing digital products.  
-Currently working as a Business Development Intern at Octaloop Technologies.
-
-- 🔍 Exploring: Full Stack Engineering, AI Tools, and E-Commerce Automation  
-- 💬 Favorite Stack: MERN (MongoDB, Express, React, Node)  
-- 🧠 Learning Focus: System Design, Product Thinking, SEO  
-- 🌍 Location: Lahore, Pakistan  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-`JavaScript` `TypeScript` `HTML` `CSS` `SQL`
-
-**Frameworks & Tools**  
-`React.js` `Node.js` `Express` `Tailwind CSS`  
-`MongoDB` `MySQL` `Firebase`  
-`Git` `Figma` `Postman`
-
----
-
-## 📈 GitHub Stats (Just for fun)
+<h1 align="center">Hi 👋, I'm Husnain Sadiq</h1>
+<h3 align="center">🚀 Developer | 🧠 Tech Enthusiast | 🌐 Full Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husnainsadiq&show_icons=true&count_private=true&theme=midnight-purple&title_color=9f7aea&icon_color=9f7aea&text_color=bab6d6" width="400" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=husnainsadiq&theme=midnight-purple&currStreakLabel=9f7aea&sideLabels=9f7aea" width="400" />
-</p>
-
-<!-- Just for visual enhancement -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husnainsadiq&label=Profile+Views&color=9f7aea" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Pinned Projects
-
-> Currently exploring industry-standard open source projects.
-
-- 🔗 [facebook/docusaurus](https://github.com/facebook/docusaurus) – Docs site generator by Meta  
-- 🔗 [vercel/next.js](https://github.com/vercel/next.js) – React framework for production  
-- 🔗 [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – Utility-first CSS framework  
-- 🔗 [appwrite/appwrite](https://github.com/appwrite/appwrite) – Self-hosted backend server for web & mobile apps  
+### 🧑‍💻 About Me
+- 🎓 Computer Science Graduate | Octaloop Intern
+- 🚀 Building innovative web and mobile apps
+- 💼 CEO @ Sahaz | Freelance E-Commerce Expert
+- 📫 Reach me: `husnain.dev@gmail.com`
 
 ---
 
-## 📬 Contact
+### 🚀 Tech Stack
 
-- **📧 Email:** [husnainsadiq.dev@gmail.com](mailto:husnainsadiq.dev@gmail.com)  
-- **🔗 LinkedIn:** [linkedin.com/in/husnainsadiq](https://linkedin.com/in/husnainsadiq)  
-- **🐙 GitHub:** [github.com/husnainsadiq](https://github.com/husnainsadiq)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,figma,python,js,ts,html,css" />
+</p>
 
 ---
 
-<p align="center"><i>“Consistency beats talent — every time.”</i></p>
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=husnain-sadiq&show_icons=true&theme=midnight-purple&count_private=true&custom_title=Husnain's%20Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=husnain-sadiq&theme=midnight-purple" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=husnain-sadiq&theme=dracula&margin-w=10&no-frame=true&rank=AA,AAA,SSS" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🚀 **Trend Hunter (FYP)** — AI-based product hunting tool  
+  `Tech: React, Node.js, MongoDB, Express, Chart.js`
+
+- 📦 **E-Commerce Admin Dashboard** — Store analytics & operations  
+  `Tech: MERN Stack, Tailwind CSS`
+
+- 💊 **MediTracker** — Track latest medical research & trends  
+  `Tech: React + News APIs + Firebase Auth`
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:husnain.dev@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge"></a>
+  <a href="https://husnain.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=firefox-browser"></a>
+</p>
+
+---
+
+### 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husnain-sadiq&style=flat-square&color=blue" alt="Profile Views">
+</p>
