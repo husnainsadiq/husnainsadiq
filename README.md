@@ -4,7 +4,7 @@
 - 🔍 Interested in Web Development, App Development, and AI
 - 🌱 Currently learning Full Stack Development (MERN Stack) and exploring Cloud Technologies
 - 🤝 Open to collaborating on open-source projects, internships, and innovative startups
-- 📫 Reach me at: [husnainsadiq.dev@gmail.com](mailto:husnainsadiq.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/husnainsadiq)
+- 📫 Reach me at: [husnainsadiq.dev@gmail.com](mailto:husnainsadiq18@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/husnainsadiq)
 
 ---
 
