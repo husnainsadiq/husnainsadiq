@@ -8,10 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Computer Science Graduate | Octaloop Intern
+- 🎓 Computer Science Graduate | 365 Care Group
 - 🚀 Building innovative web and mobile apps
 - 💼 CEO @ Sahaz | Freelance E-Commerce Expert
-- 📫 Reach me: `husnain.dev@gmail.com`
+- 📫 Reach me: `husnain18@gmail.com`
 
 ---
 
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=husnain-sadiq&show_icons=true&theme=midnight-purple&count_private=true&custom_title=Husnain's%20Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=husnain-sadiq&theme=midnight-purple" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=husnainsadiq&theme=midnight-purple" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=husnain-sadiq&theme=dracula&margin-w=10&no-frame=true&rank=AA,AAA,SSS" />
+  <img src="https://github-profile-trophy.vercel.app/?username=husnainsadiq&theme=dracula&margin-w=10&no-frame=true&rank=AA,AAA,SSS" />
 </p>
 
 ---
