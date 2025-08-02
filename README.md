@@ -1,38 +1,13 @@
-<h2 align="center">Hi there 👋, I'm Husnain Sadiq</h2>
+### 📊 My GitHub Stats (🔥 for fun)
 
 <p align="center">
-  <em>Software Developer | Web & App Enthusiast | Business Minded</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=husnainsadiq&show_icons=true&theme=radical&count_private=true&custom_title=Husnain's GitHub Stats&include_all_commits=true&hide=issues" width="450" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=husnainsadiq&theme=radical&border_radius=5&fire=DD2727&dates=FAD000&stroke=DD2727&ring=FAD000&currStreakLabel=FAD000&currStreakNum=DD2727&hide_border=false&background=000000&sideLabels=DD2727&sideNums=FAD000" width="450" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainsadiq&layout=compact&theme=radical&langs_count=8" width="450" />
 </p>
 
 ---
 
-- 💻 I'm focused on **Web Development (MERN Stack)** & building real-world projects
-- 📱 Learning **React Native & API integrations**
-- 🚀 Currently working as a **Business Development Intern at Octaloop**
-- 🌱 Exploring AI tools, GitHub Copilot, and SaaS product building
-- 🎯 My goal: Become a full-time freelance dev & founder
-
----
-
-### 🛠️ Technologies & Tools
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husnainsadiq&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=husnainsadiq&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-- 💼 `my-portfolio-site` – React-based personal website
-- 🛒 `ecommerce-store-clone` – MERN stack practice
-- 📘 `docusaurus-practice` – Learning static site generation
+> 🧪 **Note**: These stats are for *visual purposes* only and may be dramatically exaggerated (🔥 for fun!)
