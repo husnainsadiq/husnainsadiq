@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @husnainsadiq
-- 👀 I’m interested in software
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there, I'm Husnain Sadiq
+
+- 💻 I’m a passionate software developer and tech enthusiast
+- 🔍 Interested in Web Development, App Development, and AI
+- 🌱 Currently learning Full Stack Development (MERN Stack) and exploring Cloud Technologies
+- 🤝 Open to collaborating on open-source projects, internships, and innovative startups
+- 📫 Reach me at: [husnainsadiq.dev@gmail.com](mailto:husnainsadiq.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/husnainsadiq)
+
+---
 
 <!---
 husnainsadiq/husnainsadiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
