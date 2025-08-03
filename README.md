@@ -1,65 +1,72 @@
-<!-- ✨ Animated SVG Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=6C63FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Husnain+Sadiq+👋;Full+Stack+Developer+%7C+Founder+of+Sahaz;Building+fun+stuff+with+React+and+Node.js;Welcome+to+my+GitHub+Profile!" alt="Typing SVG Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=Hi%20There,%20I'm%20Husnain%20👋&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- Introduction -->
+<h2 align="center">💻 Full Stack Developer | 🌐 Tech Enthusiast | 🚀 Trend Hunter</h2>
+
+<p align="center">
+  <a href="https://github.com/husnainsadiq"><img src="https://img.shields.io/github/followers/husnainsadiq?label=Follow&style=social" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I’m **Husnain Sadiq**, a passionate **Full Stack Developer** and **Tech Enthusiast** from Pakistan 🇵🇰  
-Currently doing a **Business Development Internship at Octaloop Technologies** 💼  
-Founder of **Sahaz** 🛍️ – Your trusted store for imported goods 🌍  
-Learning, building, and growing every day 🚀
+### 🧠 About Me
+- 🎓 Computer Science Student | Final Year
+- 🛍️ Founder & CEO of [Sahaz](https://yourstorelink.com)
+- 🌟 Building: `Trend Hunter` - Product Research Tool (FYP)
+- 💼 Business Development Intern @ Octaloop Technologies
+- 🌍 Passionate about Tech, Startups, and AI
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚒️ Tech Stack
+
+#### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+#### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### 🛠️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+### 📊 Fake GitHub Stats
+
+| 📈 Stats | 🔥 Streak |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husnainsadiq&show_icons=true&count_private=true&theme=tokyonight&hide=issues&custom_title=My+GitHub+Stats) | ![GitHub Streak](https://streak-stats.demolab.com?user=husnainsadiq&theme=tokyonight) |
+
+---
+
+### 🏆 Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,github,vscode" />
+  <img src="https://github-profile-trophy.vercel.app/?username=husnainsadiq&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
 
-### 🔥 GitHub Stats
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide=issues&count_private=true&custom_title=My%20GitHub%20Stats&line_height=26&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true) |
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-#### 🧠 Trend Hunter – Final Year Project
-> A product hunting tool like Google Trends built using React & Node.js  
-🔗 [GitHub Repo](https://github.com/yourusername/trend-hunter)
-
-#### 🛒 Sahaz – E-Commerce Store
-> Online jewelry & imported products store for Pakistani audience  
-🔗 [Live Site](https://sahaz.pk) | 🔗 [GitHub Repo](https://github.com/yourusername/sahaz-store)
-
----
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnainsadiq)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:husnainsadiq18@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/husnainxsadiq)
-
----
-
-### 💡 Fun Facts
-- 📈 Learning React Native & Next.js  
-- ✍️ Writing technical blogs soon  
-- 🎯 Goal: Become the biggest YouTuber & top developer by 25
+### 📫 Let's Connect!
+- LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- YouTube: [youtube.com/@yourchannel](https://youtube.com/@yourchannel)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6C63FF&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together!" alt="Typing SVG" />
 </p>
