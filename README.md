@@ -40,5 +40,5 @@ RESTful API for task management — built with Node.js, Express, and MongoDB, wi
 ---
 
 <p align="center" style="color:gray;">
-Code is poetry written for machines and read by humans..
+Code is poetry written for machines and read by humans - Husnain Sadiq
 </p>
