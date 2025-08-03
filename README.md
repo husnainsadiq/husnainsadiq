@@ -47,5 +47,5 @@ A simple REST API to create and manage tasks, built with Express and MongoDB.
 
 <!-- Optional dark-mode footer -->
 <p align="center" style="color:gray;">
-🌓 Dark mode–friendly, simple and focused.
+🌓 Code is poetry written for machines and read by humans.
 </p>
