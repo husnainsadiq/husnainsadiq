@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 A bit about me
 
-- 💼 Currently working at **365 Care Group** as an **Operations & Compliance Officer**
+- 💼 Currently working at **ClearPath Orthodontics** as an **Dental Imaging & Orthodontic Systems Engineer**
 - 🔭 Working on: **Freelance web apps and SEO-focused landing pages**
 - 🌱 Learning: **Advanced backend architecture and business automation**
 - 🎯 Goal: **Build a strong portfolio and help small businesses grow online**
